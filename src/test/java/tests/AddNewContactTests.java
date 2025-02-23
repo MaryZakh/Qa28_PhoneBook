@@ -32,7 +32,7 @@ public class AddNewContactTests extends TestBase {
                 .build();
         app.getHelperContact().openContactForm();
         app.getHelperContact().fillContactForm(contact);
-        app.getHelperContact().pause(15000);
+       // app.getHelperContact().pause(15000);
         app.getHelperContact().saveContact();
         Assert.assertTrue(app.getHelperContact().isContactAddedByName(contact.getName()));
         Assert.assertTrue(app.getHelperContact().isContactAddedByPhone(contact.getPhone()));
