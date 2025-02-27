@@ -20,6 +20,7 @@ public void openLoginRegistrationForm(){
 //    //xPath--> //a[text()='LOGIN']
 //    loginTab.click();
     click(By.cssSelector("a[href='/login']"));
+    logger.info("Open form by click on button with locator 'By.cssSelector(\"a[href='/login']\")' ");
 
 }
 
@@ -31,6 +32,7 @@ public void openLoginRegistrationForm(){
 //        emailInput.clear();
 //        emailInput.sendKeys(email);
         type(By.name("email"),email);
+        logger.info("Type in input with locator 'By.name(\"email\")' ");
 
 
 //        WebElement passwordInput = wd.findElement(By.xpath("//input[last()]"));
