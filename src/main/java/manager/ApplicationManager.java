@@ -33,7 +33,6 @@ public class ApplicationManager {
         helperContact = new HelperContact(wd);
 
 
-
     }
 
 

@@ -1,0 +1,31 @@
+18:50:18.425 INFO  manager.ApplicationManager - All tests rus in Chrom Browser
+18:50:19.145 INFO  manager.WDListener - url -->https://telranedu.web.app/home
+18:50:19.743 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+18:50:19.786 INFO  tests.TestBase - Name of method--->loginSuccessModel
+18:50:24.807 INFO  tests.TestBase - Before method finished logout
+18:50:24.865 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:50:24.974 INFO  manager.WDListener - After click element-->(922, 33) text = LOGIN
+18:50:24.974 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:50:25.031 INFO  manager.WDListener - Before click element-->input text = 
+18:50:25.123 INFO  manager.WDListener - After click element-->(317, 250) text = 
+18:50:25.124 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (73b06aa13dc2b24ba0a5b51dcc05b441)] -> name: email]
+18:50:25.212 INFO  manager.WDListener - sendKys-->input
+18:50:25.249 INFO  manager.WDListener - sendKys-->input
+18:50:25.308 INFO  manager.WDListener - sendKys-->input
+18:50:25.308 INFO  manager.HelperBase - Type in input with locator 'By.name("email")' 
+18:50:30.400 INFO  manager.WDListener - Huston we have a problem!
+18:50:30.401 INFO  manager.WDListener - Object target--->ChromeDriver: chrome on windows (73b06aa13dc2b24ba0a5b51dcc05b441)
+18:50:30.402 INFO  manager.WDListener - *******************
+18:50:30.402 INFO  manager.WDListener - Method name--->findElement
+18:50:30.402 INFO  manager.WDListener - *******************
+18:50:30.405 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[la]"}
+  (Session info: chrome=133.0.6943.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [73b06aa13dc2b24ba0a5b51dcc05b441, findElement {using=xpath, value=//input[la]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.142, chrome: {chromedriverVersion: 132.0.6834.83 (03d59cf5ecf1..., userDataDir: C:\Users\marii\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55198}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55198/devtoo..., se:cdpVersion: 133.0.6943.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 73b06aa13dc2b24ba0a5b51dcc05b441
+18:50:30.407 INFO  manager.WDListener - *******************
+18:50:30.409 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1208.png
