@@ -1,0 +1,70 @@
+19:30:39.405 INFO  manager.ApplicationManager - All tests rus in Chrom Browser
+19:30:39.991 INFO  manager.WDListener - url -->https://telranedu.web.app/home
+19:30:40.607 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+19:30:40.621 INFO  manager.TestNGListener - start test -->Sun Mar 09 19:30:40 IST 2025
+19:30:40.655 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+19:30:45.666 INFO  tests.TestBase - Before method finished logout
+19:30:45.667 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+19:30:45.668 INFO  tests.TestBase - Test data-->User{email='margo@gmail.com', password='Mmar123456$'}
+19:30:45.726 INFO  manager.WDListener - Before click element-->a text = LOGIN
+19:30:45.854 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+19:30:45.855 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+19:30:45.906 INFO  manager.WDListener - Before click element-->input text = 
+19:30:46.026 INFO  manager.WDListener - After click element-->(760, 250) text = 
+19:30:46.026 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (5a5bfc7742868b2a126a025f62923208)] -> name: email]
+19:30:46.103 INFO  manager.WDListener - sendKys-->input
+19:30:46.138 INFO  manager.WDListener - sendKys-->input
+19:30:46.177 INFO  manager.WDListener - sendKys-->input
+19:30:46.215 INFO  manager.WDListener - Before click element-->input text = 
+19:30:46.283 INFO  manager.WDListener - After click element-->(760, 320) text = 
+19:30:46.285 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (5a5bfc7742868b2a126a025f62923208)] -> xpath: //input[last()]]
+19:30:46.332 INFO  manager.WDListener - sendKys-->input
+19:30:46.363 INFO  manager.WDListener - sendKys-->input
+19:30:46.399 INFO  manager.WDListener - sendKys-->input
+19:30:46.538 INFO  manager.WDListener - Before click element-->button text = Login
+19:30:47.594 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+19:30:47.596 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+19:30:47.675 INFO  manager.WDListener - Before click element-->button text = Sign Out
+19:30:47.768 INFO  tests.TestBase - Before method finished logout
+19:30:47.768 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+19:30:47.768 INFO  tests.TestBase - Test data-->User{email='mara@gmail.com', password='Mmar123456$'}
+19:30:47.816 INFO  manager.WDListener - Before click element-->a text = LOGIN
+19:30:47.903 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+19:30:47.903 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+19:30:47.942 INFO  manager.WDListener - Before click element-->input text = 
+19:30:48.081 INFO  manager.WDListener - After click element-->(760, 250) text = 
+19:30:48.082 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (5a5bfc7742868b2a126a025f62923208)] -> name: email]
+19:30:48.158 INFO  manager.WDListener - sendKys-->input
+19:30:48.198 INFO  manager.WDListener - sendKys-->input
+19:30:48.255 INFO  manager.WDListener - sendKys-->input
+19:30:48.288 INFO  manager.WDListener - Before click element-->input text = 
+19:30:48.391 INFO  manager.WDListener - After click element-->(760, 320) text = 
+19:30:48.392 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (5a5bfc7742868b2a126a025f62923208)] -> xpath: //input[last()]]
+19:30:48.448 INFO  manager.WDListener - sendKys-->input
+19:30:48.479 INFO  manager.WDListener - sendKys-->input
+19:30:48.525 INFO  manager.WDListener - sendKys-->input
+19:30:48.566 INFO  manager.WDListener - Before click element-->button text = Login
+19:30:48.919 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+19:30:48.920 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+19:30:48.988 INFO  manager.WDListener - Before click element-->button text = Sign Out
+19:30:49.101 INFO  tests.TestBase - Before method finished logout
+19:30:49.102 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+19:30:49.102 INFO  tests.TestBase - Test data-->User{email='sonya@gmail.com', password='Ss12345$'}
+19:30:49.151 INFO  manager.WDListener - Before click element-->a text = LOGIN
+19:30:49.242 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+19:30:49.242 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+19:30:49.296 INFO  manager.WDListener - Before click element-->input text = 
+19:30:49.404 INFO  manager.WDListener - After click element-->(760, 250) text = 
+19:30:49.404 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (5a5bfc7742868b2a126a025f62923208)] -> name: email]
+19:30:49.485 INFO  manager.WDListener - sendKys-->input
+19:30:49.543 INFO  manager.WDListener - sendKys-->input
+19:30:49.610 INFO  manager.WDListener - sendKys-->input
+19:30:49.647 INFO  manager.WDListener - Before click element-->input text = 
+19:30:49.768 INFO  manager.WDListener - After click element-->(760, 320) text = 
+19:30:49.768 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (5a5bfc7742868b2a126a025f62923208)] -> xpath: //input[last()]]
+19:30:49.823 INFO  manager.WDListener - sendKys-->input
+19:30:49.871 INFO  manager.WDListener - sendKys-->input
+19:30:49.933 INFO  manager.WDListener - sendKys-->input
+19:30:49.971 INFO  manager.WDListener - Before click element-->button text = Login
+19:30:50.302 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+19:30:50.304 INFO  manager.TestNGListener - end test -->Sun Mar 09 19:30:50 IST 2025
