@@ -1,0 +1,46 @@
+18:43:49.003 INFO  manager.ApplicationManager - All tests rus in Chrom Browser
+18:43:49.661 INFO  manager.WDListener - url -->https://telranedu.web.app/home
+18:43:50.301 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+18:43:50.316 INFO  manager.TestNGListener - start test -->Wed Mar 12 18:43:50 IST 2025
+18:43:50.355 INFO  tests.TestBase - Name of method--->loginSuccess
+18:43:50.838 INFO  manager.WDListener - Huston we have a problem!
+18:43:50.841 INFO  manager.WDListener - Object target--->ChromeDriver: chrome on windows (c084dbbec192e010bd39ee010668870b)
+18:43:50.841 INFO  manager.WDListener - *******************
+18:43:50.842 INFO  manager.WDListener - Method name--->findElements
+18:43:50.845 INFO  manager.WDListener - *******************
+18:43:50.848 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=134.0.6998.36)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c084dbbec192e010bd39ee010668870b, findElements {using=xpath, value=//button[text() = 'Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.36, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\marii\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63627}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63627/devtoo..., se:cdpVersion: 134.0.6998.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c084dbbec192e010bd39ee010668870b
+18:43:50.849 INFO  manager.WDListener - *******************
+18:43:50.859 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1195.png
+18:43:50.950 INFO  manager.TestNGListener - start test -->loginSuccess
+18:43:50.953 INFO  manager.TestNGListener - start test -->loginSuccess
+18:43:50.968 INFO  manager.TestNGListener - start test -->loginSuccess
+18:43:50.969 INFO  manager.TestNGListener - start test -->loginSuccess
+18:43:50.971 INFO  manager.TestNGListener - start test -->loginSuccess
+18:43:50.989 INFO  manager.TestNGListener - start test -->loginSuccess
+18:43:50.993 INFO  manager.TestNGListener - start test -->loginSuccessModel
+18:43:51.011 INFO  manager.TestNGListener - start test -->loginSuccessModel
+18:43:51.012 INFO  manager.TestNGListener - start test -->loginSuccessModel
+18:43:51.013 INFO  manager.TestNGListener - start test -->loginSuccessModel
+18:43:51.022 INFO  manager.TestNGListener - start test -->loginSuccessModel
+18:43:51.022 INFO  manager.TestNGListener - start test -->loginSuccessModel
+18:43:51.026 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+18:43:51.028 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+18:43:51.030 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+18:43:51.030 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+18:43:51.032 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+18:43:51.033 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+18:43:51.036 INFO  manager.TestNGListener - start test -->loginUnregisteredUser
+18:43:51.036 INFO  manager.TestNGListener - start test -->loginUnregisteredUser
+18:43:51.042 INFO  manager.TestNGListener - start test -->loginWrongEmail
+18:43:51.044 INFO  manager.TestNGListener - start test -->loginWrongEmail
+18:43:51.048 INFO  manager.TestNGListener - start test -->loginWrongPassword
+18:43:51.049 INFO  manager.TestNGListener - start test -->loginWrongPassword
+18:43:51.051 INFO  manager.TestNGListener - end test -->Wed Mar 12 18:43:51 IST 2025

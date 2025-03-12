@@ -1,0 +1,963 @@
+18:35:59.856 INFO  manager.ApplicationManager - All tests rus in FIREFOX Browser
+18:36:00.907 INFO  manager.WDListener - url -->https://telranedu.web.app/home
+18:36:01.676 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+18:36:01.700 INFO  manager.TestNGListener - start test -->Wed Mar 12 18:36:01 IST 2025
+18:36:01.753 INFO  tests.TestBase - Name of method--->loginSuccess
+18:36:06.796 INFO  tests.TestBase - Before method finished logout
+18:36:06.797 INFO  manager.TestNGListener - start test -->loginSuccess
+18:36:06.798 INFO  tests.TestBase - Start test with name 'loginSuccess'
+18:36:06.853 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:07.166 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:07.166 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:07.209 INFO  manager.WDListener - Before click element-->input text = 
+18:36:07.504 INFO  manager.WDListener - After click element-->(760, 250) text = 
+18:36:07.505 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:07.546 INFO  manager.WDListener - sendKys-->input
+18:36:07.584 INFO  manager.WDListener - sendKys-->input
+18:36:07.620 INFO  manager.WDListener - sendKys-->input
+18:36:07.621 INFO  manager.HelperBase - Type in input with locator 'By.name("email")' 
+18:36:07.698 INFO  manager.WDListener - Before click element-->input text = 
+18:36:07.944 INFO  manager.WDListener - After click element-->(760, 320) text = 
+18:36:07.944 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:07.972 INFO  manager.WDListener - sendKys-->input
+18:36:07.996 INFO  manager.WDListener - sendKys-->input
+18:36:08.022 INFO  manager.WDListener - sendKys-->input
+18:36:08.022 INFO  tests.TestBase - Test data --> email: margo@gmail.com & password: Mmar123456$
+18:36:08.059 INFO  manager.WDListener - Before click element-->button text = Login
+18:36:09.266 INFO  tests.TestBase - Assert check is element button 'Sign out' present
+18:36:09.269 INFO  manager.TestNGListener - start test -->loginSuccess
+18:36:09.273 INFO  tests.TestBase - Name of method--->loginSuccess
+18:36:09.363 INFO  manager.WDListener - Before click element-->button text = Sign Out
+18:36:09.604 INFO  tests.TestBase - Before method finished logout
+18:36:09.604 INFO  manager.TestNGListener - start test -->loginSuccess
+18:36:09.604 INFO  tests.TestBase - Start test with name 'loginSuccess'
+18:36:09.643 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:09.876 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:09.876 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:09.910 INFO  manager.WDListener - Before click element-->input text = 
+18:36:10.150 INFO  manager.WDListener - After click element-->(760, 250) text = 
+18:36:10.150 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:10.182 INFO  manager.WDListener - sendKys-->input
+18:36:10.195 INFO  manager.WDListener - sendKys-->input
+18:36:10.229 INFO  manager.WDListener - sendKys-->input
+18:36:10.230 INFO  manager.HelperBase - Type in input with locator 'By.name("email")' 
+18:36:10.254 INFO  manager.WDListener - Before click element-->input text = 
+18:36:10.506 INFO  manager.WDListener - After click element-->(760, 320) text = 
+18:36:10.506 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:10.535 INFO  manager.WDListener - sendKys-->input
+18:36:10.552 INFO  manager.WDListener - sendKys-->input
+18:36:10.579 INFO  manager.WDListener - sendKys-->input
+18:36:10.579 INFO  tests.TestBase - Test data --> email: mara@gmail.com & password: Mmar123456$
+18:36:10.609 INFO  manager.WDListener - Before click element-->button text = Login
+18:36:10.916 INFO  tests.TestBase - Assert check is element button 'Sign out' present
+18:36:10.916 INFO  manager.TestNGListener - start test -->loginSuccess
+18:36:10.917 INFO  tests.TestBase - Name of method--->loginSuccess
+18:36:10.999 INFO  manager.WDListener - Before click element-->button text = Sign Out
+18:36:11.233 INFO  tests.TestBase - Before method finished logout
+18:36:11.234 INFO  manager.TestNGListener - start test -->loginSuccess
+18:36:11.234 INFO  tests.TestBase - Start test with name 'loginSuccess'
+18:36:11.263 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:11.502 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:11.502 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:11.528 INFO  manager.WDListener - Before click element-->input text = 
+18:36:11.778 INFO  manager.WDListener - After click element-->(760, 250) text = 
+18:36:11.779 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:11.801 INFO  manager.WDListener - sendKys-->input
+18:36:11.825 INFO  manager.WDListener - sendKys-->input
+18:36:11.850 INFO  manager.WDListener - sendKys-->input
+18:36:11.850 INFO  manager.HelperBase - Type in input with locator 'By.name("email")' 
+18:36:11.880 INFO  manager.WDListener - Before click element-->input text = 
+18:36:12.124 INFO  manager.WDListener - After click element-->(760, 320) text = 
+18:36:12.124 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:12.144 INFO  manager.WDListener - sendKys-->input
+18:36:12.157 INFO  manager.WDListener - sendKys-->input
+18:36:12.187 INFO  manager.WDListener - sendKys-->input
+18:36:12.187 INFO  tests.TestBase - Test data --> email: sonya@gmail.com & password: Ss12345$
+18:36:12.211 INFO  manager.WDListener - Before click element-->button text = Login
+18:36:12.519 INFO  tests.TestBase - Assert check is element button 'Sign out' present
+18:36:12.520 INFO  manager.TestNGListener - start test -->loginSuccess
+18:36:12.539 INFO  tests.TestBase - Name of method--->loginSuccessModel
+18:36:12.595 INFO  manager.WDListener - Before click element-->button text = Sign Out
+18:36:12.834 INFO  tests.TestBase - Before method finished logout
+18:36:12.835 INFO  manager.TestNGListener - start test -->loginSuccessModel
+18:36:12.836 INFO  tests.TestBase - Test data-->User{email='margo@gmail.com', password='Mmar123456$'}
+18:36:12.866 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:13.117 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:13.118 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:13.144 INFO  manager.WDListener - Before click element-->input text = 
+18:36:13.392 INFO  manager.WDListener - After click element-->(760, 250) text = 
+18:36:13.393 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:13.418 INFO  manager.WDListener - sendKys-->input
+18:36:13.431 INFO  manager.WDListener - sendKys-->input
+18:36:13.458 INFO  manager.WDListener - sendKys-->input
+18:36:13.488 INFO  manager.WDListener - Before click element-->input text = 
+18:36:13.759 INFO  manager.WDListener - After click element-->(760, 320) text = 
+18:36:13.759 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:13.785 INFO  manager.WDListener - sendKys-->input
+18:36:13.803 INFO  manager.WDListener - sendKys-->input
+18:36:13.825 INFO  manager.WDListener - sendKys-->input
+18:36:13.857 INFO  manager.WDListener - Before click element-->button text = Login
+18:36:14.171 INFO  manager.TestNGListener - start test -->loginSuccessModel
+18:36:14.175 INFO  tests.TestBase - Name of method--->loginSuccessModel
+18:36:14.230 INFO  manager.WDListener - Before click element-->button text = Sign Out
+18:36:14.471 INFO  tests.TestBase - Before method finished logout
+18:36:14.471 INFO  manager.TestNGListener - start test -->loginSuccessModel
+18:36:14.471 INFO  tests.TestBase - Test data-->User{email='mara@gmail.com', password='Mmar123456$'}
+18:36:14.504 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:14.738 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:14.738 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:14.763 INFO  manager.WDListener - Before click element-->input text = 
+18:36:14.999 INFO  manager.WDListener - After click element-->(760, 250) text = 
+18:36:15.000 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:15.026 INFO  manager.WDListener - sendKys-->input
+18:36:15.038 INFO  manager.WDListener - sendKys-->input
+18:36:15.068 INFO  manager.WDListener - sendKys-->input
+18:36:15.093 INFO  manager.WDListener - Before click element-->input text = 
+18:36:15.342 INFO  manager.WDListener - After click element-->(760, 320) text = 
+18:36:15.342 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:15.364 INFO  manager.WDListener - sendKys-->input
+18:36:15.387 INFO  manager.WDListener - sendKys-->input
+18:36:15.403 INFO  manager.WDListener - sendKys-->input
+18:36:15.435 INFO  manager.WDListener - Before click element-->button text = Login
+18:36:15.742 INFO  manager.TestNGListener - start test -->loginSuccessModel
+18:36:15.746 INFO  tests.TestBase - Name of method--->loginSuccessModel
+18:36:15.806 INFO  manager.WDListener - Before click element-->button text = Sign Out
+18:36:16.038 INFO  tests.TestBase - Before method finished logout
+18:36:16.039 INFO  manager.TestNGListener - start test -->loginSuccessModel
+18:36:16.039 INFO  tests.TestBase - Test data-->User{email='sonya@gmail.com', password='Ss12345$'}
+18:36:16.069 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:16.313 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:16.314 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:16.343 INFO  manager.WDListener - Before click element-->input text = 
+18:36:16.585 INFO  manager.WDListener - After click element-->(760, 250) text = 
+18:36:16.585 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:16.605 INFO  manager.WDListener - sendKys-->input
+18:36:16.625 INFO  manager.WDListener - sendKys-->input
+18:36:16.645 INFO  manager.WDListener - sendKys-->input
+18:36:16.671 INFO  manager.WDListener - Before click element-->input text = 
+18:36:16.925 INFO  manager.WDListener - After click element-->(760, 320) text = 
+18:36:16.926 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:16.951 INFO  manager.WDListener - sendKys-->input
+18:36:16.973 INFO  manager.WDListener - sendKys-->input
+18:36:16.995 INFO  manager.WDListener - sendKys-->input
+18:36:17.019 INFO  manager.WDListener - Before click element-->button text = Login
+18:36:17.327 INFO  manager.TestNGListener - start test -->loginSuccessModel
+18:36:17.334 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+18:36:17.384 INFO  manager.WDListener - Before click element-->button text = Sign Out
+18:36:17.621 INFO  tests.TestBase - Before method finished logout
+18:36:17.622 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+18:36:17.625 INFO  tests.TestBase - Test data-->User{email='margo@gmail.com', password='Mmar123456$'}
+18:36:17.650 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:17.892 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:17.892 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:17.916 INFO  manager.WDListener - Before click element-->input text = 
+18:36:18.156 INFO  manager.WDListener - After click element-->(760, 250) text = 
+18:36:18.157 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:18.183 INFO  manager.WDListener - sendKys-->input
+18:36:18.200 INFO  manager.WDListener - sendKys-->input
+18:36:18.222 INFO  manager.WDListener - sendKys-->input
+18:36:18.249 INFO  manager.WDListener - Before click element-->input text = 
+18:36:18.478 INFO  manager.WDListener - After click element-->(760, 320) text = 
+18:36:18.478 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:18.503 INFO  manager.WDListener - sendKys-->input
+18:36:18.520 INFO  manager.WDListener - sendKys-->input
+18:36:18.538 INFO  manager.WDListener - sendKys-->input
+18:36:18.569 INFO  manager.WDListener - Before click element-->button text = Login
+18:36:18.866 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+18:36:18.867 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+18:36:18.919 INFO  manager.WDListener - Before click element-->button text = Sign Out
+18:36:19.144 INFO  tests.TestBase - Before method finished logout
+18:36:19.144 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+18:36:19.145 INFO  tests.TestBase - Test data-->User{email='mara@gmail.com', password='Mmar123456$'}
+18:36:19.172 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:19.419 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:19.419 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:19.440 INFO  manager.WDListener - Before click element-->input text = 
+18:36:19.676 INFO  manager.WDListener - After click element-->(760, 250) text = 
+18:36:19.676 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:19.698 INFO  manager.WDListener - sendKys-->input
+18:36:19.716 INFO  manager.WDListener - sendKys-->input
+18:36:19.734 INFO  manager.WDListener - sendKys-->input
+18:36:19.762 INFO  manager.WDListener - Before click element-->input text = 
+18:36:20.009 INFO  manager.WDListener - After click element-->(760, 320) text = 
+18:36:20.010 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:20.029 INFO  manager.WDListener - sendKys-->input
+18:36:20.047 INFO  manager.WDListener - sendKys-->input
+18:36:20.068 INFO  manager.WDListener - sendKys-->input
+18:36:20.083 INFO  manager.WDListener - Before click element-->button text = Login
+18:36:20.392 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+18:36:20.393 INFO  tests.TestBase - Name of method--->loginSuccessModelDP
+18:36:20.436 INFO  manager.WDListener - Before click element-->button text = Sign Out
+18:36:20.671 INFO  tests.TestBase - Before method finished logout
+18:36:20.672 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+18:36:20.672 INFO  tests.TestBase - Test data-->User{email='sonya@gmail.com', password='Ss12345$'}
+18:36:20.693 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:20.926 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:20.928 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:20.958 INFO  manager.WDListener - Before click element-->input text = 
+18:36:21.188 INFO  manager.WDListener - After click element-->(760, 250) text = 
+18:36:21.188 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:21.213 INFO  manager.WDListener - sendKys-->input
+18:36:21.232 INFO  manager.WDListener - sendKys-->input
+18:36:21.255 INFO  manager.WDListener - sendKys-->input
+18:36:21.280 INFO  manager.WDListener - Before click element-->input text = 
+18:36:21.521 INFO  manager.WDListener - After click element-->(760, 320) text = 
+18:36:21.522 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:21.549 INFO  manager.WDListener - sendKys-->input
+18:36:21.562 INFO  manager.WDListener - sendKys-->input
+18:36:21.580 INFO  manager.WDListener - sendKys-->input
+18:36:21.613 INFO  manager.WDListener - Before click element-->button text = Login
+18:36:21.915 INFO  manager.TestNGListener - start test -->loginSuccessModelDP
+18:36:21.917 INFO  tests.TestBase - Name of method--->loginUnregisteredUser
+18:36:21.969 INFO  manager.WDListener - Before click element-->button text = Sign Out
+18:36:22.221 INFO  tests.TestBase - Before method finished logout
+18:36:22.221 INFO  manager.TestNGListener - start test -->loginUnregisteredUser
+18:36:22.222 INFO  tests.TestBase - Test data --> email: 'maaa@gmail.com' & password: 'Maa123456$'
+18:36:22.244 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:22.470 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:22.470 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:22.496 INFO  manager.WDListener - Before click element-->input text = 
+18:36:22.727 INFO  manager.WDListener - After click element-->(760, 250) text = 
+18:36:22.727 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:22.756 INFO  manager.WDListener - sendKys-->input
+18:36:22.774 INFO  manager.WDListener - sendKys-->input
+18:36:22.805 INFO  manager.WDListener - sendKys-->input
+18:36:22.806 INFO  manager.HelperBase - Type in input with locator 'By.name("email")' 
+18:36:22.826 INFO  manager.WDListener - Before click element-->input text = 
+18:36:23.063 INFO  manager.WDListener - After click element-->(760, 320) text = 
+18:36:23.063 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:23.081 INFO  manager.WDListener - sendKys-->input
+18:36:23.097 INFO  manager.WDListener - sendKys-->input
+18:36:23.125 INFO  manager.WDListener - sendKys-->input
+18:36:23.143 INFO  manager.WDListener - Before click element-->button text = Login
+18:36:23.381 INFO  manager.WDListener - Huston we have a problem!
+18:36:23.382 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@17d2b075
+18:36:23.382 INFO  manager.WDListener - *******************
+18:36:23.382 INFO  manager.WDListener - Method name--->alert
+18:36:23.382 INFO  manager.WDListener - *******************
+18:36:23.382 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:23.382 INFO  manager.WDListener - *******************
+18:36:23.383 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1033.png
+18:36:23.940 INFO  tests.TestBase - Assert check is alert present with error text 'Wrong email or password'
+18:36:23.940 INFO  manager.TestNGListener - start test -->loginUnregisteredUser
+18:36:23.941 INFO  tests.TestBase - Name of method--->loginWrongEmail
+18:36:28.948 INFO  tests.TestBase - Before method finished logout
+18:36:28.948 INFO  manager.TestNGListener - start test -->loginWrongEmail
+18:36:28.948 INFO  tests.TestBase - Test data --> email: 'maragmail.com' & password: 'Mmar123456$'
+18:36:28.973 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:29.210 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:29.210 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:29.230 INFO  manager.WDListener - Before click element-->input text = 
+18:36:29.486 INFO  manager.WDListener - After click element-->(760, 281) text = 
+18:36:29.487 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:29.521 INFO  manager.WDListener - sendKys-->input
+18:36:29.543 INFO  manager.WDListener - sendKys-->input
+18:36:29.568 INFO  manager.WDListener - sendKys-->input
+18:36:29.568 INFO  manager.HelperBase - Type in input with locator 'By.name("email")' 
+18:36:29.592 INFO  manager.WDListener - Before click element-->input text = 
+18:36:29.832 INFO  manager.WDListener - After click element-->(760, 351) text = 
+18:36:29.832 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:29.868 INFO  manager.WDListener - sendKys-->input
+18:36:29.890 INFO  manager.WDListener - sendKys-->input
+18:36:29.909 INFO  manager.WDListener - sendKys-->input
+18:36:29.935 INFO  manager.WDListener - Before click element-->button text = Login
+18:36:30.174 INFO  manager.WDListener - Huston we have a problem!
+18:36:30.174 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@1cbc1dde
+18:36:30.174 INFO  manager.WDListener - *******************
+18:36:30.174 INFO  manager.WDListener - Method name--->alert
+18:36:30.174 INFO  manager.WDListener - *******************
+18:36:30.174 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:30.174 INFO  manager.WDListener - *******************
+18:36:30.174 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1012.png
+18:36:30.716 INFO  tests.TestBase - Assert check is alert present with error text 'Wrong email or password'
+18:36:30.716 INFO  manager.TestNGListener - start test -->loginWrongEmail
+18:36:30.718 INFO  tests.TestBase - Name of method--->loginWrongPassword
+18:36:35.732 INFO  tests.TestBase - Before method finished logout
+18:36:35.732 INFO  manager.TestNGListener - start test -->loginWrongPassword
+18:36:35.732 INFO  tests.TestBase - Test data --> email: 'mara@gmail.com' & password: 'Mmar123'
+18:36:35.756 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:35.996 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:35.996 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:36.017 INFO  manager.WDListener - Before click element-->input text = 
+18:36:36.255 INFO  manager.WDListener - After click element-->(760, 281) text = 
+18:36:36.255 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:36.293 INFO  manager.WDListener - sendKys-->input
+18:36:36.311 INFO  manager.WDListener - sendKys-->input
+18:36:36.341 INFO  manager.WDListener - sendKys-->input
+18:36:36.342 INFO  manager.HelperBase - Type in input with locator 'By.name("email")' 
+18:36:36.367 INFO  manager.WDListener - Before click element-->input text = 
+18:36:36.596 INFO  manager.WDListener - After click element-->(760, 351) text = 
+18:36:36.598 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:36.648 INFO  manager.WDListener - sendKys-->input
+18:36:36.666 INFO  manager.WDListener - sendKys-->input
+18:36:36.686 INFO  manager.WDListener - sendKys-->input
+18:36:36.704 INFO  manager.WDListener - Before click element-->button text = Login
+18:36:36.943 INFO  manager.WDListener - Huston we have a problem!
+18:36:36.943 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@44aa2e13
+18:36:36.943 INFO  manager.WDListener - *******************
+18:36:36.943 INFO  manager.WDListener - Method name--->alert
+18:36:36.943 INFO  manager.WDListener - *******************
+18:36:36.943 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:36.943 INFO  manager.WDListener - *******************
+18:36:36.943 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1774.png
+18:36:37.498 INFO  tests.TestBase - Assert check is alert present with error text 'Wrong email or password'
+18:36:37.498 INFO  manager.TestNGListener - start test -->loginWrongPassword
+18:36:37.502 INFO  tests.TestBase - Name of method--->registrationExistsUser
+18:36:42.520 INFO  manager.TestNGListener - start test -->registrationExistsUser
+18:36:42.521 INFO  tests.TestBase - Tests run with data: --->User{email='mara@gmail.com', password='Mmar123456$'}
+18:36:42.545 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:42.782 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:42.782 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:42.806 INFO  manager.WDListener - Before click element-->input text = 
+18:36:43.047 INFO  manager.WDListener - After click element-->(760, 281) text = 
+18:36:43.047 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:43.079 INFO  manager.WDListener - sendKys-->input
+18:36:43.097 INFO  manager.WDListener - sendKys-->input
+18:36:43.122 INFO  manager.WDListener - sendKys-->input
+18:36:43.141 INFO  manager.WDListener - Before click element-->input text = 
+18:36:43.371 INFO  manager.WDListener - After click element-->(760, 351) text = 
+18:36:43.372 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:43.405 INFO  manager.WDListener - sendKys-->input
+18:36:43.416 INFO  manager.WDListener - sendKys-->input
+18:36:43.439 INFO  manager.WDListener - sendKys-->input
+18:36:43.456 INFO  manager.WDListener - Before click element-->button text = Registration
+18:36:43.719 INFO  manager.WDListener - Huston we have a problem!
+18:36:43.720 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@7c7e73c5
+18:36:43.720 INFO  manager.WDListener - *******************
+18:36:43.720 INFO  manager.WDListener - Method name--->alert
+18:36:43.720 INFO  manager.WDListener - *******************
+18:36:43.720 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:43.720 INFO  manager.WDListener - *******************
+18:36:43.720 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1885.png
+18:36:44.264 INFO  manager.TestNGListener - start test -->registrationExistsUser
+18:36:44.265 INFO  tests.TestBase - Name of method--->registrationSuccess
+18:36:49.279 INFO  manager.TestNGListener - start test -->registrationSuccess
+18:36:49.280 INFO  tests.TestBase - Tests run with data: --->User{email='don2209@gmail.com', password='Ddon123456$'}
+18:36:49.302 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:49.543 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:49.543 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:49.543 INFO  tests.TestBase - openRegistrationForm invoked
+18:36:49.564 INFO  manager.WDListener - Before click element-->input text = 
+18:36:49.825 INFO  manager.WDListener - After click element-->(760, 281) text = 
+18:36:49.825 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:49.847 INFO  manager.WDListener - sendKys-->input
+18:36:49.866 INFO  manager.WDListener - sendKys-->input
+18:36:49.894 INFO  manager.WDListener - sendKys-->input
+18:36:49.918 INFO  manager.WDListener - Before click element-->input text = 
+18:36:50.160 INFO  manager.WDListener - After click element-->(760, 351) text = 
+18:36:50.160 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:50.200 INFO  manager.WDListener - sendKys-->input
+18:36:50.211 INFO  manager.WDListener - sendKys-->input
+18:36:50.235 INFO  manager.WDListener - sendKys-->input
+18:36:50.235 INFO  tests.TestBase - fillRegistrationForm invoked
+18:36:50.254 INFO  manager.WDListener - Before click element-->button text = Registration
+18:36:50.478 INFO  tests.TestBase - submitLogin invoked
+18:36:50.818 INFO  manager.TestNGListener - start test -->registrationSuccess
+18:36:50.819 INFO  tests.TestBase - Name of method--->registrationWrongEmail
+18:36:50.856 INFO  manager.WDListener - Before click element-->button text = Sign Out
+18:36:51.089 INFO  manager.TestNGListener - start test -->registrationWrongEmail
+18:36:51.090 INFO  tests.TestBase - Tests run with data: --->User{email='dongmail.com', password='Ddon123456$'}
+18:36:51.109 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:36:51.346 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:36:51.346 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:36:51.374 INFO  manager.WDListener - Before click element-->input text = 
+18:36:51.618 INFO  manager.WDListener - After click element-->(760, 250) text = 
+18:36:51.618 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:36:51.640 INFO  manager.WDListener - sendKys-->input
+18:36:51.655 INFO  manager.WDListener - sendKys-->input
+18:36:51.673 INFO  manager.WDListener - sendKys-->input
+18:36:51.693 INFO  manager.WDListener - Before click element-->input text = 
+18:36:51.930 INFO  manager.WDListener - After click element-->(760, 320) text = 
+18:36:51.930 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:36:51.955 INFO  manager.WDListener - sendKys-->input
+18:36:51.974 INFO  manager.WDListener - sendKys-->input
+18:36:51.992 INFO  manager.WDListener - sendKys-->input
+18:36:52.013 INFO  manager.WDListener - Before click element-->button text = Registration
+18:36:52.290 INFO  manager.WDListener - Huston we have a problem!
+18:36:52.291 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@69a5c6be
+18:36:52.291 INFO  manager.WDListener - *******************
+18:36:52.292 INFO  manager.WDListener - Method name--->alert
+18:36:52.292 INFO  manager.WDListener - *******************
+18:36:52.292 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:52.292 INFO  manager.WDListener - *******************
+18:36:52.293 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1775.png
+18:36:52.810 INFO  manager.WDListener - Huston we have a problem!
+18:36:52.810 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@a91119b
+18:36:52.810 INFO  manager.WDListener - *******************
+18:36:52.810 INFO  manager.WDListener - Method name--->alert
+18:36:52.810 INFO  manager.WDListener - *******************
+18:36:52.810 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:52.811 INFO  manager.WDListener - *******************
+18:36:52.811 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1599.png
+18:36:53.335 INFO  manager.WDListener - Huston we have a problem!
+18:36:53.335 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@29c53c4f
+18:36:53.335 INFO  manager.WDListener - *******************
+18:36:53.335 INFO  manager.WDListener - Method name--->alert
+18:36:53.335 INFO  manager.WDListener - *******************
+18:36:53.335 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:53.335 INFO  manager.WDListener - *******************
+18:36:53.335 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1552.png
+18:36:53.855 INFO  manager.WDListener - Huston we have a problem!
+18:36:53.855 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@4f2ac7e0
+18:36:53.855 INFO  manager.WDListener - *******************
+18:36:53.855 INFO  manager.WDListener - Method name--->alert
+18:36:53.855 INFO  manager.WDListener - *******************
+18:36:53.855 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:53.856 INFO  manager.WDListener - *******************
+18:36:53.856 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1225.png
+18:36:54.370 INFO  manager.WDListener - Huston we have a problem!
+18:36:54.370 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@58a3d521
+18:36:54.370 INFO  manager.WDListener - *******************
+18:36:54.370 INFO  manager.WDListener - Method name--->alert
+18:36:54.370 INFO  manager.WDListener - *******************
+18:36:54.370 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:54.370 INFO  manager.WDListener - *******************
+18:36:54.370 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1690.png
+18:36:54.882 INFO  manager.WDListener - Huston we have a problem!
+18:36:54.882 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@50cdfafa
+18:36:54.882 INFO  manager.WDListener - *******************
+18:36:54.882 INFO  manager.WDListener - Method name--->alert
+18:36:54.882 INFO  manager.WDListener - *******************
+18:36:54.882 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:54.882 INFO  manager.WDListener - *******************
+18:36:54.882 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1991.png
+18:36:55.392 INFO  manager.WDListener - Huston we have a problem!
+18:36:55.393 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@11810917
+18:36:55.393 INFO  manager.WDListener - *******************
+18:36:55.393 INFO  manager.WDListener - Method name--->alert
+18:36:55.393 INFO  manager.WDListener - *******************
+18:36:55.393 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:55.393 INFO  manager.WDListener - *******************
+18:36:55.393 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1816.png
+18:36:55.931 INFO  manager.WDListener - Huston we have a problem!
+18:36:55.932 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@3b5a19ed
+18:36:55.932 INFO  manager.WDListener - *******************
+18:36:55.932 INFO  manager.WDListener - Method name--->alert
+18:36:55.932 INFO  manager.WDListener - *******************
+18:36:55.932 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:55.932 INFO  manager.WDListener - *******************
+18:36:55.932 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1078.png
+18:36:56.475 INFO  manager.WDListener - Huston we have a problem!
+18:36:56.475 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@224d86d2
+18:36:56.475 INFO  manager.WDListener - *******************
+18:36:56.475 INFO  manager.WDListener - Method name--->alert
+18:36:56.476 INFO  manager.WDListener - *******************
+18:36:56.476 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:56.476 INFO  manager.WDListener - *******************
+18:36:56.476 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1191.png
+18:36:56.992 INFO  manager.WDListener - Huston we have a problem!
+18:36:56.992 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@6169be09
+18:36:56.992 INFO  manager.WDListener - *******************
+18:36:56.992 INFO  manager.WDListener - Method name--->alert
+18:36:56.992 INFO  manager.WDListener - *******************
+18:36:56.992 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:56.992 INFO  manager.WDListener - *******************
+18:36:56.992 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1428.png
+18:36:57.502 INFO  manager.WDListener - Huston we have a problem!
+18:36:57.502 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@7741ae1b
+18:36:57.502 INFO  manager.WDListener - *******************
+18:36:57.502 INFO  manager.WDListener - Method name--->alert
+18:36:57.502 INFO  manager.WDListener - *******************
+18:36:57.502 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:57.502 INFO  manager.WDListener - *******************
+18:36:57.502 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1403.png
+18:36:58.019 INFO  manager.WDListener - Huston we have a problem!
+18:36:58.019 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@6aae0e6f
+18:36:58.019 INFO  manager.WDListener - *******************
+18:36:58.019 INFO  manager.WDListener - Method name--->alert
+18:36:58.019 INFO  manager.WDListener - *******************
+18:36:58.020 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:58.020 INFO  manager.WDListener - *******************
+18:36:58.020 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1220.png
+18:36:58.539 INFO  manager.WDListener - Huston we have a problem!
+18:36:58.539 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@17ec335a
+18:36:58.539 INFO  manager.WDListener - *******************
+18:36:58.539 INFO  manager.WDListener - Method name--->alert
+18:36:58.539 INFO  manager.WDListener - *******************
+18:36:58.539 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:58.539 INFO  manager.WDListener - *******************
+18:36:58.541 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1741.png
+18:36:59.063 INFO  manager.WDListener - Huston we have a problem!
+18:36:59.063 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@377dfb8d
+18:36:59.063 INFO  manager.WDListener - *******************
+18:36:59.063 INFO  manager.WDListener - Method name--->alert
+18:36:59.063 INFO  manager.WDListener - *******************
+18:36:59.063 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:59.063 INFO  manager.WDListener - *******************
+18:36:59.063 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1681.png
+18:36:59.580 INFO  manager.WDListener - Huston we have a problem!
+18:36:59.580 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@46bb0bdf
+18:36:59.580 INFO  manager.WDListener - *******************
+18:36:59.580 INFO  manager.WDListener - Method name--->alert
+18:36:59.580 INFO  manager.WDListener - *******************
+18:36:59.580 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:36:59.580 INFO  manager.WDListener - *******************
+18:36:59.580 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1365.png
+18:37:00.101 INFO  manager.WDListener - Huston we have a problem!
+18:37:00.101 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@34c76167
+18:37:00.101 INFO  manager.WDListener - *******************
+18:37:00.101 INFO  manager.WDListener - Method name--->alert
+18:37:00.101 INFO  manager.WDListener - *******************
+18:37:00.101 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:00.101 INFO  manager.WDListener - *******************
+18:37:00.101 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1238.png
+18:37:00.622 INFO  manager.WDListener - Huston we have a problem!
+18:37:00.622 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@624b3544
+18:37:00.622 INFO  manager.WDListener - *******************
+18:37:00.622 INFO  manager.WDListener - Method name--->alert
+18:37:00.622 INFO  manager.WDListener - *******************
+18:37:00.622 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:00.622 INFO  manager.WDListener - *******************
+18:37:00.623 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1729.png
+18:37:01.145 INFO  manager.WDListener - Huston we have a problem!
+18:37:01.145 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@39133244
+18:37:01.145 INFO  manager.WDListener - *******************
+18:37:01.145 INFO  manager.WDListener - Method name--->alert
+18:37:01.145 INFO  manager.WDListener - *******************
+18:37:01.145 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:01.145 INFO  manager.WDListener - *******************
+18:37:01.145 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1332.png
+18:37:01.656 INFO  manager.WDListener - Huston we have a problem!
+18:37:01.658 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@4d4c1ba9
+18:37:01.658 INFO  manager.WDListener - *******************
+18:37:01.658 INFO  manager.WDListener - Method name--->alert
+18:37:01.658 INFO  manager.WDListener - *******************
+18:37:01.658 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:01.658 INFO  manager.WDListener - *******************
+18:37:01.658 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1485.png
+18:37:02.166 INFO  manager.WDListener - Huston we have a problem!
+18:37:02.166 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@755a7218
+18:37:02.166 INFO  manager.WDListener - *******************
+18:37:02.166 INFO  manager.WDListener - Method name--->alert
+18:37:02.166 INFO  manager.WDListener - *******************
+18:37:02.166 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:02.166 INFO  manager.WDListener - *******************
+18:37:02.166 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1603.png
+18:37:02.678 INFO  manager.WDListener - Huston we have a problem!
+18:37:02.678 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@6238d5e0
+18:37:02.678 INFO  manager.WDListener - *******************
+18:37:02.678 INFO  manager.WDListener - Method name--->alert
+18:37:02.678 INFO  manager.WDListener - *******************
+18:37:02.678 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:02.679 INFO  manager.WDListener - *******************
+18:37:02.679 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1015.png
+18:37:02.682 INFO  manager.TestNGListener - start test -->registrationWrongEmail
+18:37:02.683 INFO  tests.TestBase - Name of method--->registrationWrongPassword
+18:37:07.703 INFO  manager.TestNGListener - start test -->registrationWrongPassword
+18:37:07.705 INFO  tests.TestBase - Tests run with data: --->User{email='don@gmail.com', password='Ddon123'}
+18:37:07.725 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:37:07.958 INFO  manager.WDListener - After click element-->(1808, 33) text = LOGIN
+18:37:07.958 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:37:07.980 INFO  manager.WDListener - Before click element-->input text = 
+18:37:08.228 INFO  manager.WDListener - After click element-->(760, 281) text = 
+18:37:08.229 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> name: email]
+18:37:08.261 INFO  manager.WDListener - sendKys-->input
+18:37:08.280 INFO  manager.WDListener - sendKys-->input
+18:37:08.298 INFO  manager.WDListener - sendKys-->input
+18:37:08.318 INFO  manager.WDListener - Before click element-->input text = 
+18:37:08.567 INFO  manager.WDListener - After click element-->(760, 351) text = 
+18:37:08.567 INFO  manager.WDListener - clear element -->[[FirefoxDriver: firefox on windows (091f05d9-ad7f-4276-98e2-d99f669c06e0)] -> xpath: //input[last()]]
+18:37:08.600 INFO  manager.WDListener - sendKys-->input
+18:37:08.619 INFO  manager.WDListener - sendKys-->input
+18:37:08.641 INFO  manager.WDListener - sendKys-->input
+18:37:08.665 INFO  manager.WDListener - Before click element-->button text = Registration
+18:37:08.932 INFO  manager.WDListener - Huston we have a problem!
+18:37:08.933 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@40a1b6d4
+18:37:08.933 INFO  manager.WDListener - *******************
+18:37:08.933 INFO  manager.WDListener - Method name--->alert
+18:37:08.933 INFO  manager.WDListener - *******************
+18:37:08.933 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:08.933 INFO  manager.WDListener - *******************
+18:37:08.933 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1307.png
+18:37:09.456 INFO  manager.WDListener - Huston we have a problem!
+18:37:09.456 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@25ad25f5
+18:37:09.456 INFO  manager.WDListener - *******************
+18:37:09.456 INFO  manager.WDListener - Method name--->alert
+18:37:09.456 INFO  manager.WDListener - *******************
+18:37:09.456 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:09.456 INFO  manager.WDListener - *******************
+18:37:09.456 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1968.png
+18:37:09.969 INFO  manager.WDListener - Huston we have a problem!
+18:37:09.969 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@9b3be1c
+18:37:09.969 INFO  manager.WDListener - *******************
+18:37:09.969 INFO  manager.WDListener - Method name--->alert
+18:37:09.969 INFO  manager.WDListener - *******************
+18:37:09.969 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:09.969 INFO  manager.WDListener - *******************
+18:37:09.969 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1843.png
+18:37:10.492 INFO  manager.WDListener - Huston we have a problem!
+18:37:10.492 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@45d4421d
+18:37:10.492 INFO  manager.WDListener - *******************
+18:37:10.492 INFO  manager.WDListener - Method name--->alert
+18:37:10.492 INFO  manager.WDListener - *******************
+18:37:10.492 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:10.492 INFO  manager.WDListener - *******************
+18:37:10.492 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1255.png
+18:37:11.010 INFO  manager.WDListener - Huston we have a problem!
+18:37:11.010 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@1282e98
+18:37:11.010 INFO  manager.WDListener - *******************
+18:37:11.010 INFO  manager.WDListener - Method name--->alert
+18:37:11.010 INFO  manager.WDListener - *******************
+18:37:11.010 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:11.010 INFO  manager.WDListener - *******************
+18:37:11.010 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1519.png
+18:37:11.534 INFO  manager.WDListener - Huston we have a problem!
+18:37:11.535 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@3e9beef2
+18:37:11.535 INFO  manager.WDListener - *******************
+18:37:11.535 INFO  manager.WDListener - Method name--->alert
+18:37:11.535 INFO  manager.WDListener - *******************
+18:37:11.535 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:11.535 INFO  manager.WDListener - *******************
+18:37:11.535 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1174.png
+18:37:12.058 INFO  manager.WDListener - Huston we have a problem!
+18:37:12.058 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@79ab97fd
+18:37:12.058 INFO  manager.WDListener - *******************
+18:37:12.058 INFO  manager.WDListener - Method name--->alert
+18:37:12.058 INFO  manager.WDListener - *******************
+18:37:12.059 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:12.059 INFO  manager.WDListener - *******************
+18:37:12.059 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1943.png
+18:37:12.579 INFO  manager.WDListener - Huston we have a problem!
+18:37:12.580 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@133aacbe
+18:37:12.580 INFO  manager.WDListener - *******************
+18:37:12.580 INFO  manager.WDListener - Method name--->alert
+18:37:12.580 INFO  manager.WDListener - *******************
+18:37:12.580 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:12.580 INFO  manager.WDListener - *******************
+18:37:12.580 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1207.png
+18:37:13.094 INFO  manager.WDListener - Huston we have a problem!
+18:37:13.094 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@3030836d
+18:37:13.094 INFO  manager.WDListener - *******************
+18:37:13.094 INFO  manager.WDListener - Method name--->alert
+18:37:13.094 INFO  manager.WDListener - *******************
+18:37:13.094 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:13.094 INFO  manager.WDListener - *******************
+18:37:13.094 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1055.png
+18:37:13.613 INFO  manager.WDListener - Huston we have a problem!
+18:37:13.613 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@68aec50
+18:37:13.613 INFO  manager.WDListener - *******************
+18:37:13.613 INFO  manager.WDListener - Method name--->alert
+18:37:13.613 INFO  manager.WDListener - *******************
+18:37:13.613 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:13.613 INFO  manager.WDListener - *******************
+18:37:13.613 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1736.png
+18:37:14.134 INFO  manager.WDListener - Huston we have a problem!
+18:37:14.134 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@5463f035
+18:37:14.134 INFO  manager.WDListener - *******************
+18:37:14.134 INFO  manager.WDListener - Method name--->alert
+18:37:14.134 INFO  manager.WDListener - *******************
+18:37:14.134 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:14.134 INFO  manager.WDListener - *******************
+18:37:14.134 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1467.png
+18:37:14.646 INFO  manager.WDListener - Huston we have a problem!
+18:37:14.646 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@722531ab
+18:37:14.646 INFO  manager.WDListener - *******************
+18:37:14.647 INFO  manager.WDListener - Method name--->alert
+18:37:14.647 INFO  manager.WDListener - *******************
+18:37:14.647 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:14.647 INFO  manager.WDListener - *******************
+18:37:14.647 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1772.png
+18:37:15.162 INFO  manager.WDListener - Huston we have a problem!
+18:37:15.162 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@2baac4a7
+18:37:15.162 INFO  manager.WDListener - *******************
+18:37:15.162 INFO  manager.WDListener - Method name--->alert
+18:37:15.162 INFO  manager.WDListener - *******************
+18:37:15.162 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:15.162 INFO  manager.WDListener - *******************
+18:37:15.162 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1879.png
+18:37:15.686 INFO  manager.WDListener - Huston we have a problem!
+18:37:15.686 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@65f3e805
+18:37:15.686 INFO  manager.WDListener - *******************
+18:37:15.686 INFO  manager.WDListener - Method name--->alert
+18:37:15.686 INFO  manager.WDListener - *******************
+18:37:15.686 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:15.687 INFO  manager.WDListener - *******************
+18:37:15.687 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1621.png
+18:37:16.208 INFO  manager.WDListener - Huston we have a problem!
+18:37:16.208 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@6f96dd64
+18:37:16.208 INFO  manager.WDListener - *******************
+18:37:16.208 INFO  manager.WDListener - Method name--->alert
+18:37:16.208 INFO  manager.WDListener - *******************
+18:37:16.208 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:16.208 INFO  manager.WDListener - *******************
+18:37:16.208 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1837.png
+18:37:16.729 INFO  manager.WDListener - Huston we have a problem!
+18:37:16.729 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@720f56e2
+18:37:16.729 INFO  manager.WDListener - *******************
+18:37:16.729 INFO  manager.WDListener - Method name--->alert
+18:37:16.729 INFO  manager.WDListener - *******************
+18:37:16.729 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:16.730 INFO  manager.WDListener - *******************
+18:37:16.730 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1155.png
+18:37:17.256 INFO  manager.WDListener - Huston we have a problem!
+18:37:17.256 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@24197b13
+18:37:17.256 INFO  manager.WDListener - *******************
+18:37:17.256 INFO  manager.WDListener - Method name--->alert
+18:37:17.256 INFO  manager.WDListener - *******************
+18:37:17.256 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:17.256 INFO  manager.WDListener - *******************
+18:37:17.256 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1547.png
+18:37:17.775 INFO  manager.WDListener - Huston we have a problem!
+18:37:17.775 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@478967eb
+18:37:17.775 INFO  manager.WDListener - *******************
+18:37:17.775 INFO  manager.WDListener - Method name--->alert
+18:37:17.775 INFO  manager.WDListener - *******************
+18:37:17.775 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:17.775 INFO  manager.WDListener - *******************
+18:37:17.775 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1290.png
+18:37:18.289 INFO  manager.WDListener - Huston we have a problem!
+18:37:18.289 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@18c880ea
+18:37:18.289 INFO  manager.WDListener - *******************
+18:37:18.289 INFO  manager.WDListener - Method name--->alert
+18:37:18.289 INFO  manager.WDListener - *******************
+18:37:18.289 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:18.289 INFO  manager.WDListener - *******************
+18:37:18.289 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1462.png
+18:37:18.811 INFO  manager.WDListener - Huston we have a problem!
+18:37:18.812 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@61a87366
+18:37:18.812 INFO  manager.WDListener - *******************
+18:37:18.812 INFO  manager.WDListener - Method name--->alert
+18:37:18.812 INFO  manager.WDListener - *******************
+18:37:18.812 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:18.812 INFO  manager.WDListener - *******************
+18:37:18.812 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1042.png
+18:37:19.325 INFO  manager.WDListener - Huston we have a problem!
+18:37:19.326 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@3915e7c3
+18:37:19.326 INFO  manager.WDListener - *******************
+18:37:19.326 INFO  manager.WDListener - Method name--->alert
+18:37:19.326 INFO  manager.WDListener - *******************
+18:37:19.326 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [091f05d9-ad7f-4276-98e2-d99f669c06e0, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 136.0.1, moz:accessibilityChecks: false, moz:buildID: 20250310180126, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 34916, moz:profile: C:\Users\marii\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 091f05d9-ad7f-4276-98e2-d99f669c06e0
+18:37:19.326 INFO  manager.WDListener - *******************
+18:37:19.326 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1823.png
+18:37:19.327 INFO  manager.TestNGListener - start test -->registrationWrongPassword
+18:37:19.327 INFO  manager.TestNGListener - end test -->Wed Mar 12 18:37:19 IST 2025
