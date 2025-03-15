@@ -34,7 +34,7 @@ public class RegistrationTests extends TestBase {
 
 
     }
-    @Test(description =  "Bug report #23456 Fixed")
+    @Test(description =  "Bug report #23456 Fixed", groups = {"smoke"})
     public void registrationWrongEmail() {
 
         User user = new User().withEmail("dongmail.com").withPassword("Ddon123456$");

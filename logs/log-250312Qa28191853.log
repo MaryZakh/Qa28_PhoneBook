@@ -1,0 +1,12 @@
+19:18:53.869 INFO  manager.TestNGListener - start test -->Wed Mar 12 19:18:53 IST 2025
+19:18:53.893 INFO  manager.TestNGListener - start test -->loginWrongEmail
+19:18:53.896 INFO  tests.TestBase - Test data --> email: 'maragmail.com' & password: 'Mmar123456$'
+19:18:53.903 INFO  manager.TestNGListener - start test -->loginWrongEmail
+19:18:53.911 INFO  manager.TestNGListener - start test -->registrationWrongEmail
+19:18:53.912 INFO  manager.TestNGListener - start test -->registrationWrongEmail
+19:18:53.913 INFO  manager.TestNGListener - start test -->registrationWrongPassword
+19:18:53.913 INFO  manager.TestNGListener - start test -->registrationWrongPassword
+19:18:53.914 INFO  manager.TestNGListener - start test -->addContactSuccessReqFields
+19:18:53.932 INFO  tests.TestBase - Tests run with data: --->Contact(name=TonyReq, lastName=Stark, phone=343434341133, email=stark1133@gmail.com, address=NY, description=null)
+19:18:53.935 INFO  manager.TestNGListener - start test -->addContactSuccessReqFields
+19:18:53.936 INFO  manager.TestNGListener - end test -->Wed Mar 12 19:18:53 IST 2025
