@@ -17,7 +17,7 @@ public class AddNewContactTests extends TestBase {
         }
 
     }
-
+//for jenkins
 
     @Test(dataProvider = "contactSuccess", dataProviderClass = DataProviderContact.class)
     public void addContactSuccessAllFields(Contact contact) {
