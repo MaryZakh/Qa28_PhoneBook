@@ -1,0 +1,164 @@
+18:29:48.095 INFO  manager.ApplicationManager - All tests rus in Chrom Browser
+18:29:48.775 INFO  manager.WDListener - url -->https://telranedu.web.app/home
+18:29:49.415 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+18:29:49.438 INFO  manager.TestNGListener - start test -->Sun Mar 16 18:29:49 IST 2025
+18:29:54.533 INFO  tests.TestBase - Before method finished logout
+18:29:54.542 INFO  tests.TestBase - Name of method--->loginWrongEmail
+18:29:54.553 INFO  manager.TestNGListener - start test -->loginWrongEmail
+18:29:54.555 INFO  tests.TestBase - Test data --> email: 'maragmail.com' & password: 'Mmar123456$'
+18:29:54.668 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:29:54.811 INFO  manager.WDListener - After click element-->(846, 33) text = LOGIN
+18:29:54.811 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:29:54.877 INFO  manager.WDListener - Before click element-->input text = 
+18:29:55.004 INFO  manager.WDListener - After click element-->(279, 250) text = 
+18:29:55.004 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (6b5ffef84e4e0d9e424b1793e5a6334b)] -> name: email]
+18:29:55.105 INFO  manager.WDListener - sendKys-->input
+18:29:55.155 INFO  manager.WDListener - sendKys-->input
+18:29:55.222 INFO  manager.WDListener - sendKys-->input
+18:29:55.222 INFO  manager.HelperBase - Type in input with locator 'By.name("email")' 
+18:29:55.288 INFO  manager.WDListener - Before click element-->input text = 
+18:29:55.385 INFO  manager.WDListener - After click element-->(279, 320) text = 
+18:29:55.385 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (6b5ffef84e4e0d9e424b1793e5a6334b)] -> xpath: //input[last()]]
+18:29:55.455 INFO  manager.WDListener - sendKys-->input
+18:29:55.499 INFO  manager.WDListener - sendKys-->input
+18:29:55.558 INFO  manager.WDListener - sendKys-->input
+18:29:55.618 INFO  manager.WDListener - Before click element-->button text = Login
+18:29:55.751 INFO  manager.WDListener - Huston we have a problem!
+18:29:55.751 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@423b2b62
+18:29:55.751 INFO  manager.WDListener - *******************
+18:29:55.752 INFO  manager.WDListener - Method name--->alert
+18:29:55.752 INFO  manager.WDListener - *******************
+18:29:55.752 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6b5ffef84e4e0d9e424b1793e5a6334b, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\marii\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58544}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58544/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b5ffef84e4e0d9e424b1793e5a6334b
+18:29:55.753 INFO  manager.WDListener - *******************
+18:29:55.753 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1349.png
+18:29:56.296 INFO  manager.WDListener - Huston we have a problem!
+18:29:56.297 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@5f481b73
+18:29:56.297 INFO  manager.WDListener - *******************
+18:29:56.297 INFO  manager.WDListener - Method name--->alert
+18:29:56.297 INFO  manager.WDListener - *******************
+18:29:56.299 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6b5ffef84e4e0d9e424b1793e5a6334b, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\marii\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58544}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58544/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b5ffef84e4e0d9e424b1793e5a6334b
+18:29:56.299 INFO  manager.WDListener - *******************
+18:29:56.299 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1294.png
+18:29:56.845 INFO  tests.TestBase - Assert check is alert present with error text 'Wrong email or password'
+18:29:56.848 INFO  manager.TestNGListener - start test -->loginWrongEmail
+18:30:01.924 INFO  tests.TestBase - Name of method--->registrationWrongEmail
+18:30:01.924 INFO  manager.TestNGListener - start test -->registrationWrongEmail
+18:30:01.925 INFO  tests.TestBase - Tests run with data: --->User{email='dongmail.com', password='Ddon123456$'}
+18:30:01.969 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:30:02.070 INFO  manager.WDListener - After click element-->(846, 33) text = LOGIN
+18:30:02.070 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:30:02.118 INFO  manager.WDListener - Before click element-->input text = 
+18:30:02.207 INFO  manager.WDListener - After click element-->(279, 281) text = 
+18:30:02.207 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (6b5ffef84e4e0d9e424b1793e5a6334b)] -> name: email]
+18:30:02.312 INFO  manager.WDListener - sendKys-->input
+18:30:02.345 INFO  manager.WDListener - sendKys-->input
+18:30:02.404 INFO  manager.WDListener - sendKys-->input
+18:30:02.457 INFO  manager.WDListener - Before click element-->input text = 
+18:30:02.538 INFO  manager.WDListener - After click element-->(279, 351) text = 
+18:30:02.540 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (6b5ffef84e4e0d9e424b1793e5a6334b)] -> xpath: //input[last()]]
+18:30:02.637 INFO  manager.WDListener - sendKys-->input
+18:30:02.675 INFO  manager.WDListener - sendKys-->input
+18:30:02.725 INFO  manager.WDListener - sendKys-->input
+18:30:02.778 INFO  manager.WDListener - Before click element-->button text = Registration
+18:30:02.865 INFO  manager.WDListener - Huston we have a problem!
+18:30:02.866 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@69923ac3
+18:30:02.866 INFO  manager.WDListener - *******************
+18:30:02.866 INFO  manager.WDListener - Method name--->alert
+18:30:02.866 INFO  manager.WDListener - *******************
+18:30:02.866 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6b5ffef84e4e0d9e424b1793e5a6334b, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\marii\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58544}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58544/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b5ffef84e4e0d9e424b1793e5a6334b
+18:30:02.866 INFO  manager.WDListener - *******************
+18:30:02.867 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1388.png
+18:30:03.419 INFO  manager.TestNGListener - start test -->registrationWrongEmail
+18:30:08.438 INFO  tests.TestBase - Name of method--->registrationWrongPassword
+18:30:08.439 INFO  manager.TestNGListener - start test -->registrationWrongPassword
+18:30:08.439 INFO  tests.TestBase - Tests run with data: --->User{email='don@gmail.com', password='Ddon123'}
+18:30:08.484 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:30:08.579 INFO  manager.WDListener - After click element-->(846, 33) text = LOGIN
+18:30:08.580 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:30:08.629 INFO  manager.WDListener - Before click element-->input text = 
+18:30:08.708 INFO  manager.WDListener - After click element-->(279, 281) text = 
+18:30:08.709 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (6b5ffef84e4e0d9e424b1793e5a6334b)] -> name: email]
+18:30:08.788 INFO  manager.WDListener - sendKys-->input
+18:30:08.828 INFO  manager.WDListener - sendKys-->input
+18:30:08.883 INFO  manager.WDListener - sendKys-->input
+18:30:08.927 INFO  manager.WDListener - Before click element-->input text = 
+18:30:09.016 INFO  manager.WDListener - After click element-->(279, 351) text = 
+18:30:09.016 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (6b5ffef84e4e0d9e424b1793e5a6334b)] -> xpath: //input[last()]]
+18:30:09.110 INFO  manager.WDListener - sendKys-->input
+18:30:09.142 INFO  manager.WDListener - sendKys-->input
+18:30:09.200 INFO  manager.WDListener - sendKys-->input
+18:30:09.242 INFO  manager.WDListener - Before click element-->button text = Registration
+18:30:09.329 INFO  manager.WDListener - Huston we have a problem!
+18:30:09.329 INFO  manager.WDListener - Object target--->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@4317850d
+18:30:09.329 INFO  manager.WDListener - *******************
+18:30:09.329 INFO  manager.WDListener - Method name--->alert
+18:30:09.329 INFO  manager.WDListener - *******************
+18:30:09.329 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6b5ffef84e4e0d9e424b1793e5a6334b, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\marii\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58544}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58544/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b5ffef84e4e0d9e424b1793e5a6334b
+18:30:09.330 INFO  manager.WDListener - *******************
+18:30:09.331 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1289.png
+18:30:09.870 INFO  manager.TestNGListener - start test -->registrationWrongPassword
+18:30:14.945 INFO  manager.WDListener - Before click element-->a text = LOGIN
+18:30:15.028 INFO  manager.WDListener - After click element-->(846, 33) text = LOGIN
+18:30:15.028 INFO  manager.HelperBase - Open form by click on button with locator 'By.cssSelector("a[href='/login']")' 
+18:30:15.065 INFO  manager.WDListener - Before click element-->input text = 
+18:30:15.157 INFO  manager.WDListener - After click element-->(279, 281) text = 
+18:30:15.158 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (6b5ffef84e4e0d9e424b1793e5a6334b)] -> name: email]
+18:30:15.235 INFO  manager.WDListener - sendKys-->input
+18:30:15.279 INFO  manager.WDListener - sendKys-->input
+18:30:15.325 INFO  manager.WDListener - sendKys-->input
+18:30:15.361 INFO  manager.WDListener - Before click element-->input text = 
+18:30:15.466 INFO  manager.WDListener - After click element-->(279, 351) text = 
+18:30:15.467 INFO  manager.WDListener - clear element -->[[ChromeDriver: chrome on windows (6b5ffef84e4e0d9e424b1793e5a6334b)] -> xpath: //input[last()]]
+18:30:15.529 INFO  manager.WDListener - sendKys-->input
+18:30:15.560 INFO  manager.WDListener - sendKys-->input
+18:30:15.635 INFO  manager.WDListener - sendKys-->input
+18:30:15.668 INFO  manager.WDListener - Before click element-->button text = Login
+18:30:15.735 INFO  tests.TestBase - Name of method--->addContactSuccessReqFields
+18:30:15.735 INFO  manager.TestNGListener - start test -->addContactSuccessReqFields
+18:30:15.749 INFO  tests.TestBase - Tests run with data: --->Contact(name=TonyReq, lastName=Stark, phone=343434341815, email=stark1815@gmail.com, address=NY, description=null)
+18:30:20.782 INFO  manager.WDListener - Huston we have a problem!
+18:30:20.782 INFO  manager.WDListener - Object target--->ChromeDriver: chrome on windows (6b5ffef84e4e0d9e424b1793e5a6334b)
+18:30:20.782 INFO  manager.WDListener - *******************
+18:30:20.782 INFO  manager.WDListener - Method name--->findElement
+18:30:20.782 INFO  manager.WDListener - *******************
+18:30:20.782 INFO  manager.WDListener - InvocationTargetExceptionorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[placeholder='Name']"}
+  (Session info: chrome=134.0.6998.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6b5ffef84e4e0d9e424b1793e5a6334b, findElement {using=css selector, value=[placeholder='Name']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\marii\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58544}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58544/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b5ffef84e4e0d9e424b1793e5a6334b
+18:30:20.782 INFO  manager.WDListener - *******************
+18:30:20.782 INFO  manager.WDListener - Screen with error is--->src/test/screenshots/screen_1396.png
+18:30:21.051 INFO  manager.TestNGListener - start test -->addContactSuccessReqFields
+18:30:21.052 INFO  manager.TestNGListener - end test -->Sun Mar 16 18:30:21 IST 2025
